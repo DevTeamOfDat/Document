@@ -9,7 +9,7 @@ composer install -> php artisan serve
 - Lấy ra 1 đối tượng: method=get, param=id
 - thêm danh sách đối tượng: method=post
   {
-    "listObj"😞
+    "listObj":[
       {
         "abc":"xyz"
       },
