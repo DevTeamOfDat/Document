@@ -34,8 +34,7 @@ composer install -> php artisan serve
 
 
 # Các yêu cầu cần thiết:
-- database: 
-* dữ liệu thật
+- database: dữ liệu thật
 
 - front end admin:
 * login + authentication
