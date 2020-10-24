@@ -2,8 +2,7 @@
 tutorial: download composer + setting, import file sql to phpmyadmin
 
 # Các lệnh cần chạy
-composer install
-php artisan serve
+composer install -> php artisan serve
 
 # Các API hiện có:
 - Lấy ra danh sách đối tượng: method=get
