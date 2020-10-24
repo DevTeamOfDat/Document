@@ -1,6 +1,10 @@
 # BackEndPHP
 tutorial: download composer + setting, import file sql to phpmyadmin
 
+# Các lệnh cần chạy
+composer install
+php artisan serve
+
 # Các API hiện có:
 - Lấy ra danh sách đối tượng: method=get
 - Lấy ra 1 đối tượng: method=get, param=id
