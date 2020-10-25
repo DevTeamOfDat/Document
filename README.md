@@ -34,8 +34,8 @@ composer install -> php artisan serve
 
 # Các loại response hiện có:
 - data: đối với những response là object
-- error: đối với những response là thông báo lỗi về validate, exception
-- message: đối với những response là thông báo thao tác thành công và thất bại, không tìm thấy
+- error: đối với những response là thông báo lỗi về validate, exception, thao tác thất bại, không tìm thấy
+- success: đối với những response là thông báo thao tác thành công
 
 # Ví dụ về response hiện có:
 - data: {
@@ -54,10 +54,10 @@ composer install -> php artisan serve
       "error2"
     ]
   }
-- message: {
-    "message":[
-      "message1",
-      "message2"
+- success: {
+    "success":[
+      "success1",
+      "success2"
     ]
   }
 
