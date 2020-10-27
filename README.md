@@ -56,12 +56,12 @@ composer install -> php artisan serve
   }
 - success: {
     "success":[
-      "success1",
-      "success2"
+      "success1"
     ]
   }
 
 # Các yêu cầu cần thiết:
+- API báo cáo thống kê
 - database: dữ liệu thật
 
 - front end admin:
