@@ -71,11 +71,3 @@ trong db đã có 2 accounts: admin (password: vannam212) và user (vannamdeptra
 * login + authentication
 * module tin tức cần link đến bài viết có sẵn trên mạng
 * module hóa đơn và phiếu nhập không có action sửa
-
-- front end user:
-* login + authentication
-* module giới thiệu cửa hàng và sản phẩm
-* module tin tức
-* module thêm sản phẩm vào giỏ hàng
-* module đặt hàng
-* module thêm nhận xét
