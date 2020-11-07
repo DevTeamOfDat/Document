@@ -4,6 +4,9 @@ tutorial: download composer + setting, import file sql to phpmyadmin
 # Các lệnh cần chạy
 composer install -> php artisan serve
 
+# Lưu ý:
+trong db đã có 2 accounts: admin (password: vannam212) và user (vannamdeptrai)
+
 # Các API hiện có:
 - Lấy ra danh sách đối tượng: method=get
 - Lấy ra 1 đối tượng: method=get, param=id
